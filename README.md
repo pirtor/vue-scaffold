@@ -1,4 +1,4 @@
-# cli-demo
+# vue-scaffold
 
 ## Project setup
 ```
